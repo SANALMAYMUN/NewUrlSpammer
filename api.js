@@ -1,7 +1,7 @@
 const axios = require('axios');
 const { exit } = require('process');
 const fs = require('fs').promises;
-const token = "OTAzNjYzMzg0NjQ4NjQ2NzE4.GbGcQD.wRXW-reQbPI4M_nIK6PV06CR7im-mVWO5tbLjI";
+const token = "token";
 const url = "quarex"
 const guild = "1071197375470784612";
 proxyyjson = {}
